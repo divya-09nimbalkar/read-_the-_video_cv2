@@ -1,5 +1,6 @@
 # read-_the-_video_cv2
 
+
 **OpenCV Webcam Video Processing (Python)**
 
 This project demonstrates basic real-time video processing using the OpenCV (cv2) library in Python. The program accesses the system webcam, captures live video frames, converts each frame into grayscale format, and displays the processed video in a window.
